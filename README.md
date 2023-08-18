@@ -1,4 +1,4 @@
-# asp-homework 2022
+# Course: Algorithms and Data Structures, 3rd semester
 ## Text of the homework:
 
 ### Modeling human knowledge in order to understand text by computers is the subject
