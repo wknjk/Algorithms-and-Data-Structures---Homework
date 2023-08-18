@@ -39,5 +39,7 @@ words, in the format word1 -(similarity)->word2 -(similarity)->word3 ... etc.
 • Finding all words that are strongly related to the given word (belong
 same strongly connected component)
 
-Notes: Although the completed task satisfied all the requirements of the subject, 
+Note: Although the completed task satisfied all the requirements of the subject, 
 the chosen architecture is not good enough because it is not adapted to the modifications of the problem.
+
+The code is currently in a preliminary state and may require refactoring. I plan to revisit and improve it in the future.
